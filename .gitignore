@@ -1,0 +1,22 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local data and generated outputs
+data/output/*
+!data/output/.gitkeep
+data/input/*
+!data/input/.gitkeep
+
+# Model weights and training runs
+weights/*.pt
+!weights/.gitkeep
+runs/
+datasets/
+
+# Environment and editor files
+.env
+.DS_Store
+.vscode/
