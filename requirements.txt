@@ -5,3 +5,5 @@ Pillow>=10.0.0
 scikit-image>=0.21.0
 streamlit>=1.30.0
 ultralytics>=8.0.0
+iterative-stratification>=0.1.9
+PyYAML>=6.0.0
